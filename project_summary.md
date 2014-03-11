@@ -1,5 +1,5 @@
 # Project Title
-visual sound
+Visual Sound
 
 ## Authors
 - Estefanía Cano, ecanoc
