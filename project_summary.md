@@ -12,11 +12,5 @@ The projects consists of an  App that allows the user to 'paint sound'.  To be a
 There are two very exciting components about the project -how to represent audio graphically, and vice versa, how does the modified image gets translated back into sound. 
 
 
-## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
-```
-function test() {
-  console.log("Printing a test");
-}
-```
+
 
