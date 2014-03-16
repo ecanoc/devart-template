@@ -1,4 +1,9 @@
-Insert a description to describe your update to document your creative process. The Commissioned Interactive Artists will be doing the same so you can reference their Project Posts.
+Concept digram and initial interface sketches
+
+'The user is the artist and the musician' VISUAL SOUND enables them do that. 
+
+Brainstorming about the basic concept and how to turn it into an app, how we can potentially modify the original image, display layout, etc.
+
 
 ![Example Image](../project_images/cover.jpg?raw=true "Example Image")
 
