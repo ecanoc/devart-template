@@ -1,9 +1,16 @@
 {
     "technologies": {
-        "Languages": [
-            "Processing, Java"
+        "apis": [
+            "insert apis"
         ],
         "platforms": [
-           "Android"
+            "Android"
+        ],
+        "toolkits": [
+            "insert toolkits"
         ]
+    },
+    "themes": [
+        "insert themes"
+    ]
 }
