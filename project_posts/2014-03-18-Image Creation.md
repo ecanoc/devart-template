@@ -11,11 +11,9 @@ INSPIRATION
 ![Example Image](../project_images/insp1.png?raw=true "Example Image")
 
 ![Example Image](../project_images/insp2.jpg?raw=true "Example Image")
-
 ![Example Image](../project_images/insp3.jpg?raw=true "Example Image")
 
 ![Example Image](../project_images/insp4.jpg?raw=true "Example Image")
-
 ![Example Image](../project_images/insp5.jpg?raw=true "Example Image")
 
 ![Example Image](../project_images/insp6.jpg?raw=true "Example Image")
