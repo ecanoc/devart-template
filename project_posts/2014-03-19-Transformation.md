@@ -1,20 +1,15 @@
-Image creation
+A little bit on the technical side ...
 
-Part of the challenge of the project is the representation of audio as an image. It needs to be simple, so the user can modify it easily from a mobile device, abstract, and beatiful, so the user is attracted to the image and gets interested not only on the sonic aspect but also on the visual one.
 
-We looked at others visual representations of data, going from fractals, celular automatas, network diagrams etc, here are some images we found inspiring for the project:
+![Example Image](../project_images/Transformada.jpg?raw=true "Example Image")
+
+To create images from sound, we've chosen a transform (Tx) that seamlessly maps audio (1D) into 2D images. 
+
+Each image corresponds to an unique sound - NO TWO SOUNDS HAVE THE SAME IMAGE -
  
 
 
-INSPIRATION
 
-![Example Image](../project_images/insp1.png?raw=true "Example Image")
 
-![Example Image](../project_images/insp2.jpg?raw=true "Example Image")
-![Example Image](../project_images/insp3.jpg?raw=true "Example Image")
 
-![Example Image](../project_images/insp4.jpg?raw=true "Example Image")
-![Example Image](../project_images/insp5.jpg?raw=true "Example Image")
-
-![Example Image](../project_images/insp6.jpg?raw=true "Example Image")
 
