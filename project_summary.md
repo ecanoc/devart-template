@@ -1,7 +1,7 @@
 # Visual Sound
 
 
-## Authors
+## 
 - Estefanía Cano & Julia A Cano
 
 ## Description
