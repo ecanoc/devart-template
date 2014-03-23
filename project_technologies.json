@@ -14,7 +14,9 @@
     "themes": [
         "sound",
         "transformation",
-        "visual"
+        "visual",
+        "interactive",
+        "wewillbethewinner"
     ]
     
 }
