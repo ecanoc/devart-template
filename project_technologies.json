@@ -12,7 +12,9 @@
         
     },
     "themes": [
-        "insert themes"
+        "sound",
+        "transformation",
+        "visual"
     ]
     
 }
