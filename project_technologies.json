@@ -9,8 +9,12 @@
         "toolkits": [
             "insert toolkits"
         ]
+        "languages": [
+            "insert toolkits"
+        ]
     },
     "themes": [
         "insert themes"
     ]
+    
 }
