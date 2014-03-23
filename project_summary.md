@@ -2,8 +2,7 @@
 
 
 ## Authors
-- Estefanía Cano, ecanoc
-- Julia A Cano
+- Estefanía Cano & Julia A Cano
 
 ## Description
 VISUAL SOUND comes from a combination of shared and individual interests of the authors. Estefanía is a musician and engineer working with audio technology, and Julia is an architect and designer working with code as a design and aesthetic tool. 
