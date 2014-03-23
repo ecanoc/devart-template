@@ -9,12 +9,10 @@
         "toolkits": [
             "insert toolkits"
         ]
-        "languages": [
-            "java"
-        ]
+        
     },
     "themes": [
-        "insert themes"
+        "java"
     ]
     
 }
