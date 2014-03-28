@@ -1,6 +1,5 @@
 Some thoughts about a VISUAL SOUND exhibition
 
-
 3.0 X 3.0 X 3.0m box
 
 ![Example Image](../project_images/01.jpg?raw=true "Example Image")
@@ -33,13 +32,17 @@ Pespective images from the user view point
 HOW:
 users play with the app, and upload their projects. 
 each project consits of the following: 
-initial sound
-initial image
-new sound
-new image
-all four components get uploaded
+  initial sound
+  
+  initial image
+  
+  new sound
+  
+  new image
+  
+  all four components get uploaded
 
-projects from different users get played in a random sequence, a screen gets randomly chosen, where the four components, get played, in a constant loop. 
+Projects from different users get played in a random sequence, a screen gets randomly chosen, where the four components, get played, in a constant loop. 
 The sound plays for the 10 sec duration, first the original, then the modified one, one porject after the other. The image howver, stays in the screen, until all the screens are in use, and then, the new project replaces the image too. 
 This generates a constantly changing both sound and visual landscape created by the users. 
 
